@@ -9,16 +9,16 @@ They are to help you follow steps during lab.
 I highly suggest you to make your own version of code templates with your own notes and descriptions.
 
 ## Office Hours
-Wed 4:00 ~ 5:00
+- Wed 4:00 ~ 5:00
 
 ## Lab Schedule
-Fri 12:00 ~ 13:00 Chapman Hall 202
+- Fri 12:00 ~ 13:00 Chapman Hall 202
 
 Below is tentative schedule for lab session each week and is subject to change.
 
-Week 1 (7 Apr) : Function, conditional, and for loop
+Week 1 (7 Apr) : Function, conditional
 
-Week 2 (14 Apr) : 
+Week 2 (14 Apr) : for loop
 
 Week 3 (21 Apr) :
 
