@@ -2,8 +2,8 @@
 
 ## Welcome!
 
-This is a repo for EC607 Spring Core Metrics Lab session in support of [Ed](https://edrub.in/)'s [Economics 607: Econometrics III (Spring 2021)]([url](https://github.com/edrubin/EC607S23)).
-You can find all related files like .R in this github page.
+This is a repo for EC607 Spring Core Metrics Lab session in support of [Ed](https://edrub.in/)'s [Economics 607: Econometrics III (Spring 2021)](https://github.com/edrubin/EC607S23).
+You can find all related files like .R in this page.
 Uploaded codes are all withoutany notes or description.
 They are to help you follow steps during lab. 
 I highly suggest you to make your own version of code templates with your own notes and descriptions.
