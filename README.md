@@ -16,22 +16,28 @@ I highly suggest you to make your own version of code templates with your own no
 
 Below is tentative schedule for lab session each week and is subject to change.
 
-Week 1 (7 Apr) : Function, conditional
+# Week 1 (7 Apr)
+1. Rmd, Knit
+2. Package management
+3. Function and conditionals
 
-Week 2 (14 Apr) : for loop
+# Week 2 (14 Apr) : 
+1. for loop
+2. plot
+3. 
 
-Week 3 (21 Apr) :
+# Week 3 (21 Apr) :
 
-Week 4 (28 Apr) :
+# Week 4 (28 Apr) :
 
-Week 5 (5 May) :
+# Week 5 (5 May) :
 
-Week 6 (12 May) :
+# Week 6 (12 May) :
 
-Week 7 (19 May) :
+# Week 7 (19 May) :
 
-Week 8 (26 May) :
+# Week 8 (26 May) :
 
-Week 9 (2 Jun) :
+# Week 9 (2 Jun) :
 
-Week 10 (9 Jun) :
+# Week 10 (9 Jun) :
