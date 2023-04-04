@@ -1,6 +1,6 @@
 # Welcome !
 
-This is my github page for EC607 Spring Core Metrics Lab session
+This is a repo for EC607 Spring Core Metrics Lab session
 You can find all related files like .R in this github page.
 Uploaded codes are all withoutany notes or description.
 They are to help you follow steps during lab. 
