@@ -19,7 +19,7 @@ I highly suggest you to make your own version of code templates with your own no
 - email: jaichung@uoregon.edu
 
 ## Lab Schedule
-- Fri 12:00 ~ 13:00 Chapman Hall 202
+- Fri 12:00 ~ 13:00 PLC 410
 
 Below is tentative schedule for lab session each week and is subject to change.
 
